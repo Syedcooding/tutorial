@@ -1,2 +1,2 @@
-# w3c-clone
-this is my first git
+Hello There!
+This is my First Project
