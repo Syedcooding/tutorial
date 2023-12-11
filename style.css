@@ -23,3 +23,11 @@ button{
 a{
     margin-right: 200px;
 }
+@media (max-width:700px)
+{
+    #navbar {background-color: aqua;}
+    #navbar {font-size: 20px;}
+    #navbar {display: flex;}
+    #navbar {justify-content: space-evenly;}
+    #navbar {align-items: center;}
+}
